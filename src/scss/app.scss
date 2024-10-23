@@ -1,4 +1,4 @@
-@use 'variables' as v;
+@use '/src/scss/base/variables' as v;
 
 body {
     font-family: v.$fuente_principal;
@@ -6,3 +6,4 @@ body {
     font-style: normal;
     color: v.$negro;
 }
+ 
